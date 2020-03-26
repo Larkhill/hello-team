@@ -1,2 +1,2 @@
 # hello-team
-having a go
+Having a go at learning git basics with github.
